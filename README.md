@@ -20,6 +20,6 @@ Example 1: The current player has a total score of 41 and the opponent has 92. T
 Example 2: The current player has a total score of 34 and the opponent has 5. The current player rolls three dice that total 6. The player's new score is 40, and the ones digit is the same as the opponent's tens digit (40 and 05), so the scores are swapped. The current player now has 5 points and the opponent has 40.
 Example 3: The current player has a total score of 91 and the opponent has 12. The current player rolls five dice that total 20. The player's new score is 111, and the ones digit is the same as the opponent's tens digit (111 and 12), so the scores are swapped. The opponent ends the turn with 111 points and wins the game.
 
-# Refernce
+# Reference
 Link : https://cs61a.org/proj/hog/#problem-5-2-pt
 Source : The game of hog from https://cs61a.org/
